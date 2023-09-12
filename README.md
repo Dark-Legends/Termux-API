@@ -40,7 +40,9 @@ chmod +x setup.sh
 ```bash
 ./setup.sh
 ```
+
 -🤖 when you run this setup.sh script then this script move into home directory OK and go to home directory and run OK 🤖
+
 
 ```bash
 ./Termux-api-sctipt.sh
