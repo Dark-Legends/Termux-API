@@ -1,11 +1,11 @@
 # 🤖 Termux-API
 Hey guys Termux-API to Make Phone call and Sms of your Phone Send and in termux ok
 
-This Tool Test On 👨‍💻
+# This Tool Test On 👨‍💻
 
 - Termux
 
-🛑 Installation and Requirement 🛑 
+# 🛑 Installation and Requirement 🛑 
 
 - Install Termux-api on Your android Phone 📱 Ok
 For Download fDroid Website 👍 and link 👇
@@ -41,7 +41,7 @@ chmod +x setup.sh
 ./setup.sh
 ```
 
--🤖 when you run this setup.sh script then this script move into home directory OK and go to home directory and run OK 🤖
+# 🤖 when you run this setup.sh script then this script move into home directory OK and go to home directory and run OK 🤖
 
 
 ```bash
