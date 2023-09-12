@@ -9,9 +9,11 @@ Thi Tool Test On 👨‍💻
 
 - Install Termux-api on Your android Phone 📱 Ok
 For Download fDroid Website 👍 and link 👇
+
 https://f-droid.org/en/packages/com.termux.api/
 - Install Termux on Your android Phone 📱 ok
 For Download fdroid Website 👍 and link 👇
+
 https://f-droid.org/en/packages/com.termux/
 
 ```bash
@@ -37,7 +39,7 @@ chmod +x setup.sh
 
 ```bash
 ./setup.sh
-
+```
 -🤖 when you run this setup.sh script then this script move into home directory OK and go to home directory and run OK 🤖
 
 ```bash
