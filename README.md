@@ -7,11 +7,11 @@ Hey guys Termux-API to Make Phone call and Sms of your Phone Send and in termux 
 
 # 🛑 Installation and Requirement 🛑 
 
-- Install Termux-api on Your android Phone 📱 Ok
+1. Install Termux-api on Your android Phone 📱 Ok
 Download from  fDroid Website 👍 and link 👇
 
 https://f-droid.org/en/packages/com.termux.api/
-- Install Termux on Your android Phone 📱 ok
+2. Install Termux on Your android Phone 📱 ok
 Download from fdroid Website 👍 and link 👇
 
 https://f-droid.org/en/packages/com.termux/
