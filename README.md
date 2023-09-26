@@ -25,6 +25,10 @@ apt-get install termux-api -y
 ```
 
 ```bash
+pip install lolcat
+```
+
+```bash
 git clone https://github.com/Dark-Legends/Termux-API.git
 ```
 
